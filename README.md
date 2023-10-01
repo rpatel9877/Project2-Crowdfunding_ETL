@@ -2,7 +2,8 @@
 
 Crowdfunding_ETL project July 31, 2023
 
-Contributors: Rajan Patel Ralf Welvers
+Contributors: Rajan Patel, Ralf Welvers
+For this project we built an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a PostgreSQL database.
 
 The code can be found in the following file:
 
